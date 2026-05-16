@@ -10,3 +10,9 @@ node server.js   # O usando PM2
 cd ../frontend
 npm install
 npm start
+
+
+#Demostracion del dashboard
+
+
+![Demo del Dashboard](./Dashboard-Demo.gif)
